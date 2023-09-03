@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+header {
+  background-color: #ff9a4b;
+  height: 50px;
+  margin-bottom: 50px;
+}
+
+footer {
+  background-color: #aaaaaa;
+  height: 50px;
+  margin-top: 50px;
+}
